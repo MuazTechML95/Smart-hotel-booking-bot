@@ -1,0 +1,17 @@
+# Core LangChain
+langchain
+langchain-openai
+
+# Web UI
+streamlit
+
+# DB
+psycopg2-binary
+
+# Environment variables
+python-dotenv
+
+# Speech / Voice
+SpeechRecognition
+pyttsx3
+pyaudio
