@@ -19,4 +19,4 @@ This project demonstrates **AI-driven chatbots** applied to **real-world hotel b
 ## Installation & Usage
 1. Clone the repository:  
 ```bash
-git clone https://github.com/<your-username>/hotel-chatbot-ai.git
+git clone https://github.com/<MuazTechML>/hotel-chatbot-ai.git
