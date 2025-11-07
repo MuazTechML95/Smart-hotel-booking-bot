@@ -15,8 +15,3 @@ Python | Streamlit | SpeechRecognition | LangChain | PostgreSQL | AI/NLP
 
 ## Purpose
 This project demonstrates **AI-driven chatbots** applied to **real-world hotel booking**, combining **voice interfaces, intelligent chat, and database integration**.  
-
-## Installation & Usage
-1. Clone the repository:  
-```bash
-git clone https://github.com/<MuazTechML>/hotel-chatbot-ai.git 
